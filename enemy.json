@@ -1,4 +1,3 @@
-{
+
 	{"id":1,"type":"boss","attack":100,"defend":50},	
-	{"id":2,"type":"soldier","attack":20,"defend":5}
-}
+	
