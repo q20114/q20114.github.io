@@ -1,0 +1,3 @@
+
+	{"id":1,"type":"boss","attack":100,"defend":50}
+	
